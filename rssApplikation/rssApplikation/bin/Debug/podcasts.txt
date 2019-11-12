@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<ArrayOfPodcast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Podcast>
+    <PodcastName>Wretched Radio</PodcastName>
+    <PodcastCategory>Thriller</PodcastCategory>
+    <PodcastUpdateFrequency>180</PodcastUpdateFrequency>
+    <EpisodeCount>16</EpisodeCount>
+    <Url>https://www.wretched.org/category/radio/feed/</Url>
+  </Podcast>
+  <Podcast>
+    <PodcastName>Serial</PodcastName>
+    <PodcastCategory>Crime Documentary</PodcastCategory>
+    <PodcastUpdateFrequency>360</PodcastUpdateFrequency>
+    <EpisodeCount>36</EpisodeCount>
+    <Url>http://feeds.serialpodcast.org/serialpodcast</Url>
+  </Podcast>
+  <Podcast>
+    <PodcastName>Creepypodden i P3</PodcastName>
+    <PodcastCategory>Horror</PodcastCategory>
+    <PodcastUpdateFrequency>480</PodcastUpdateFrequency>
+    <EpisodeCount>142</EpisodeCount>
+    <Url>https://api.sr.se/api/rss/pod/22209</Url>
+  </Podcast>
+</ArrayOfPodcast>

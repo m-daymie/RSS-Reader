@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfCategory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Category>
+    <CategoryName>Thriller</CategoryName>
+  </Category>
+  <Category>
+    <CategoryName>Crime Documentary</CategoryName>
+  </Category>
+  <Category>
+    <CategoryName>Adventure</CategoryName>
+  </Category>
+  <Category>
+    <CategoryName>Lifestyle</CategoryName>
+  </Category>
+  <Category>
+    <CategoryName>Horror</CategoryName>
+  </Category>
+</ArrayOfCategory>
